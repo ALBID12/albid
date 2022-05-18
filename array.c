@@ -16,7 +16,7 @@ int main()
             sum = sum + num[i];
         }
     printf("%d\n",sum);
-    printf("%.2f",(float)sum/5);
+    printf("%.2f",sum/5);
     /*num[0] = 10;
     num[1] = 10;
     num[2] = 10;
